@@ -11,7 +11,7 @@ A Prototype for educational purpose.
   <img src="Preview/duel.gif" />
 </p>
 
-## Getting Started
+## 🤔 Getting Started
 
 Follow the below instructions to get started:
 
@@ -19,18 +19,18 @@ Follow the below instructions to get started:
 2. [Download Source Code](#download)
 3. Open Project in Unity and Enjoy!
 
-## Requirements
+## ⚙️ Requirements
 
 Make sure you have the requirements before starting:
 
 - [Unity Game Engine](https://unity3d.com)
 - Basic Knowledge about Unity and C#
 
-## Download
+## ⬇️ Download
 
 [:sparkles: Download Source Code](https://github.com/raxelf/WildWestern-Duel-Game-Prototype/archive/refs/heads/main.zip)
 
-## Screenshots
+## 📸 Screenshots
 
 <p align="center">
   <img src="Preview/preview1.png"/>
