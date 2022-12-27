@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <h1>
-    WildWester Duel Game Prototype
+    WildWestern Duel Game Prototype
   </h1>
   <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="MadeWithUnity Badge"/>
   
